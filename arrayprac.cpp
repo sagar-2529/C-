@@ -23,6 +23,7 @@ int main(){
     printarray(even, 6);
     swap_number( odd, 5);
     printarray(odd, 5);
+    cout << " this is code";
 
 
 }

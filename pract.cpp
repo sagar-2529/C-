@@ -59,6 +59,7 @@ int main(){
     cout<< " leftmost index is : "<< ans<< endl;
 
         cout<< " rightmost index is : "<< sans;
+        cout << " this is code";
 
     
 
